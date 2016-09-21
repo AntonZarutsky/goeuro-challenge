@@ -1,7 +1,6 @@
 package de.goeuro.devtest.domain;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import de.goeuro.devtest.ModelStubs;
 import de.goeuro.devtest.ResourceLoader;
 import java.io.IOException;
 import lombok.val;
