@@ -1,0 +1,26 @@
+{
+  "_id":425326,
+  "key":"test-key",
+  "name":"Bernau bei Berlin",
+  "fullName":"Bernau bei Berlin, Germany",
+  "iata_airport_code": "TXL",
+  "type":"location",
+  "country":"Germany",
+  "locationId":124669,
+  "inEurope":true,
+  "countryId":56,
+  "countryCode":"DE",
+  "coreCountry":true,
+  "distance":1000,
+  "names":{
+    "de":"Bernau",
+    "zh":"柏林附近贝尔瑙",
+    "ru":"Бернау"
+  },
+  "alternativeNames":{
+    "de":"a-Bernau",
+    "zh":"a-柏林附近贝尔瑙",
+    "ru":"a-Бернау"
+  },
+  "new_field": "test"
+}
